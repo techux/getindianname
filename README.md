@@ -3,7 +3,9 @@ Generate Indian Names Randomly from various region of India.
 [ mainly from North(Uttar Pradesh) and West (Gujarat - Punjab) region]
 
 ## Installation
-''' pip install getindianname '''
+’ ’ ’
+ pip install getindianname 
+’ ’ ’
 
 ## How to use it
 you will need to *_import getindianname_* on python program or terminal.
@@ -27,7 +29,7 @@ using function  **male()**
 
 ## Add your own Names
 To add your own name you should follow these steps
-- Fork this repo [From GitHub](https://github.com/devesh7272/Indian_Name_Generator)
+- Fork this repo [From GitHub](https://github.com/devesh7272/getindianname)
 - Edit main.py and add the male female names and titles separately
 - Commit change and pull request
 
