@@ -1,4 +1,4 @@
-# Indian Name Generator
+# getindianname
 Generate Indian Names Randomly from various region of India.
 [ mainly from North(Uttar Pradesh) and West (Gujarat - Punjab) region]
 
