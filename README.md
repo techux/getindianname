@@ -12,13 +12,13 @@ you will need to *_import getindianname_* on python program or terminal.
 
 You can generate Names :
 - Randomly 
-using function ``` **randname()**```
+using function ``` randname()```
 
 - Male 
-using function  **male()**
+using function ``` male() ```
 
 - Female
- using function   **female()**
+ using function ``` female()```
 
 ## Features
 - 10+ Names added daily
