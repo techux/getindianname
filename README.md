@@ -3,16 +3,16 @@ Generate Indian Names Randomly from various region of India.
 [ mainly from North(Uttar Pradesh) and West (Gujarat - Punjab) region]
 
 ## Installation
-’ ’ ’
+```
  pip install getindianname 
-’ ’ ’
+```
 
 ## How to use it
 you will need to *_import getindianname_* on python program or terminal.
 
 You can generate Names :
 - Randomly 
-using function  **randname()**
+using function ``` **randname()**```
 
 - Male 
 using function  **male()**
