@@ -11,13 +11,13 @@ Generate Indian Names Randomly from various region of India.
 you will need to *_import getindianname_* on python program or terminal.
 
 You can generate Names :
-- Randomly 
+- Randomly name
 using function ``` randname()```
 
-- Male 
+- Male name
 using function ``` male() ```
 
-- Female
+- Female name
  using function ``` female()```
 
 ## Features
