@@ -47,7 +47,7 @@ connect.world12345@gmail.com
 Thank you
 
 ## License
-© 2020 [Devesh Singh](https://www.facebook.com/devedh790)
+© 2020 [Devesh Singh](https://www.facebook.com/devesh790)
 Made with ❤ in India 🇮🇳
 
 This Repository is Licensed Under MIT License.
