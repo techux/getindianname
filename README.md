@@ -6,7 +6,13 @@ Generate Indian Names Randomly from various region of India.
 ``` python
  pip install getindianname 
 ```
+**Downloads** from *pypi.org*
 
+[![Total Downloads](https://pepy.tech/badge/getindianname)](https://pepy.tech/project/getindianname)
+
+[![Downloads](https://pepy.tech/badge/getindianname/week)](https://pepy.tech/project/getindianname)
+
+[![Downloads](https://pepy.tech/badge/getindianname/month)](https://pepy.tech/project/getindianname)
 ## How to use it
 you will need to *_import getindianname_* on python program or terminal.
 
