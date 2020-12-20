@@ -15,7 +15,9 @@ Generate Indian Names Randomly from various region of India.
 [![Downloads](https://pepy.tech/badge/getindianname/month)](https://pepy.tech/project/getindianname)
 ## How to use it
 you will need to *_import getindianname_* on python program or terminal.
-
+``` python
+from getindianname import *
+```
 You can generate Names :
 - Randomly name
 using function ``` randname()```
@@ -45,9 +47,9 @@ connect.world12345@gmail.com
 Thank you
 
 ## License
-@ 2020 Devesh Singh
+© 2020 [Devesh Singh](https://www.facebook.com/devedh790)
 Made with ❤ in India 🇮🇳
 
 This Repository is Licensed Under MIT License.
 
-See LICENSE for more
+See [LICENSE](https://github.com/devesh7272/getindianname/blob/main/LICENSE) for more
