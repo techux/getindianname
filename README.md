@@ -38,7 +38,9 @@ using function ``` male() ```
 - Create Random Names
 - Add Your own Names
 
-## Adding your own Names [Contributing]
+## Adding your own Names [Contributing](https://github.com/devesh7272/getindianname/blob/main/CONTRIBUTING.md#contributing-to-getindianname)
+See [Contributing.md](https://github.com/devesh7272/getindianname/blob/main/CONTRIBUTING.md#contributing-to-getindianname)
+
 To add your own name you should follow these steps
 - Fork this repo [From GitHub](https://github.com/devesh7272/getindianname)
 - Edit main.py and add the male female names and titles separately
