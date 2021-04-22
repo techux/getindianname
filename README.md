@@ -6,6 +6,7 @@ Generate Indian Names Randomly from various region of India.
 ``` python
  pip install getindianname 
 ```
+## Statistics
 **Downloads** from *pypi.org*
 
 [![Total Downloads](https://pepy.tech/badge/getindianname)](https://pepy.tech/project/getindianname)
@@ -13,6 +14,8 @@ Generate Indian Names Randomly from various region of India.
 [![Downloads](https://pepy.tech/badge/getindianname/week)](https://pepy.tech/project/getindianname)
 
 [![Downloads](https://pepy.tech/badge/getindianname/month)](https://pepy.tech/project/getindianname)
+
+[![getindianname](https://snyk.io/advisor/python/getindianname/badge.svg)](https://snyk.io/advisor/python/getindianname)
 ## How to use it
 you will need to *_import getindianname_* on python program or terminal.
 ``` python
@@ -27,6 +30,8 @@ using function ``` male() ```
 
 - Female name
  using function ``` female()```
+
+## Usages
 
 ## Features
 - 10+ Names added daily
