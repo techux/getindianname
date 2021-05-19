@@ -1,7 +1,7 @@
 # getindianname
-**Package Updated on : 19 May 2021**<br>[See Changelogs]()<br>
+**Package Updated on : 19 May 2021**<br>[See Changelogs](https://github.com/devesh7272/getindianname/blob/main/README.md#changelogs)<br>
 
-This package have ability to generate 50K+ Indian Names [Hindi Names] for various uses.<br>Generate Indian Names Randomly from various region of India.
+This package have ability to generate 50K+ Indian Names [Hindi Names] for various uses. [See Project Ideas](https://github.com/devesh7272/getindianname/blob/main/README.md#projectideas)<br>Generate Indian Names Randomly from various region of India.
 [ mainly from North(Uttar Pradesh) and West (Gujarat - Punjab) region]. Other region names added daily.
 
 ## Installation
@@ -44,6 +44,8 @@ using function ``` male() ```
 - Create male and female names separately
 - Create Random Names
 - Add Your own Names
+
+## Project Ideas
 
 ## Changelogs
 - Current Version : v1.0.4 [19 May 2021]
