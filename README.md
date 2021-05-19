@@ -4,8 +4,17 @@
 This package have ability to generate 50K+ Indian Names [Hindi Names] for various uses. [See Project Ideas](https://github.com/devesh7272/getindianname/blob/main/README.md#project-ideas)<br>Generate Indian Names Randomly from various region of India.
 [ mainly from North(Uttar Pradesh) and West (Gujarat - Punjab) region]. Other region names added daily.
 
+# Table Of Content
+ - Installation
+ - Statistics
+ - Usages
+-Features
+- Project Ideas
+- Changelogs
+- Contribution
+
 ## Installation
-This package is available on pypi.<br>[Check Here getindianname](https://pypi.org/project/getindianname)
+This package is available on pypi.<br>[Check Here](https://pypi.org/project/getindianname)
 
 ``` python
  pip install getindianname 
@@ -17,6 +26,7 @@ This package is available on pypi.<br>[Check Here getindianname](https://pypi.or
 [![Downloads](https://pepy.tech/badge/getindianname/week)](https://pepy.tech/project/getindianname)
 [![Downloads](https://pepy.tech/badge/getindianname/month)](https://pepy.tech/project/getindianname)
 [![getindianname](https://snyk.io/advisor/python/getindianname/badge.svg)](https://snyk.io/advisor/python/getindianname)
+
 ## Usage
 You will need to *_import getindianname_* on python program or python shell before use.
 ``` python
@@ -46,6 +56,12 @@ using function ``` male() ```
 - Add Your own Names
 
 ## Project Ideas
+- Fake Indian Name Generator
+- Fake e-mail address generator
+- Dumb Data Generator
+- Generate Data for testing Form Filing
+- Use it for Bulk Form filling spam checking
+- And Much more like that
 
 ## Changelogs
 - Current Version : v1.0.4 [19 May 2021]
@@ -57,7 +73,7 @@ using function ``` male() ```
 - Version : 1.0.3, 1.0.2, 1.0.1, 1.0.1
   - _Currently not available_
 
-## Adding your own Names [Contributing](https://github.com/devesh7272/getindianname/blob/main/CONTRIBUTING.md#contributing-to-getindianname)
+## [Contributing](https://github.com/devesh7272/getindianname/blob/main/CONTRIBUTING.md#contributing-to-getindianname)
 See [Contributing.md](https://github.com/devesh7272/getindianname/blob/main/CONTRIBUTING.md#contributing-to-getindianname)
 
 To add your own name you should follow these steps
