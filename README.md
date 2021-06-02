@@ -14,7 +14,7 @@ This package have ability to generate 50K+ Indian Names [Hindi Names] for variou
 [ mainly from North(Uttar Pradesh) and West (Gujarat - Punjab) region]. Other region names added daily.
 
 # Table Of Content
-- [Installation](Installation)
+- [Installation](#installation)
 - Statistics
 - Usages
 -Features
