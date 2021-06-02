@@ -3,24 +3,24 @@
 [![PyPI license](https://img.shields.io/pypi/l/getindianname.svg)](https://pypi.python.org/pypi/getindianname)
 [![Awesome Badges](https://img.shields.io/badge/Pypi-Install-green.svg)](https://pypi.org/project/getindianname/)
 
-**Package Updated on : 19 May 2021**<br>[See Changelogs](https://github.com/devesh7272/getindianname/blob/main/README.md#changelogs)<br>
+**Package Updated on : 19 May 2021**<br>[See Changelogs](#changelogs)<br>
 
 [![Total Downloads](https://pepy.tech/badge/getindianname)](https://pepy.tech/project/getindianname)
 [![Downloads](https://pepy.tech/badge/getindianname/week)](https://pepy.tech/project/getindianname)
 [![Downloads](https://pepy.tech/badge/getindianname/month)](https://pepy.tech/project/getindianname)
 [![getindianname](https://snyk.io/advisor/python/getindianname/badge.svg)](https://snyk.io/advisor/python/getindianname)
 
-This package have ability to generate 50K+ Indian Names [Hindi Names] for various uses. [See Project Ideas](https://github.com/devesh7272/getindianname/blob/main/README.md#project-ideas)<br>Generate Indian Names Randomly from various region of India.
+This package have ability to generate 50K+ Indian Names [Hindi Names] for various uses. [See Project Ideas](#project-ideas)<br>Generate Indian Names Randomly from various region of India.
 [ mainly from North(Uttar Pradesh) and West (Gujarat - Punjab) region]. Other region names added daily.
 
 # Table Of Content
 - [Installation](#installation)
-- Statistics
-- Usages
--Features
-- Project Ideas
-- Changelogs
-- Contribution
+- [Statistics](#Statistics)
+- [Usages](#usages)
+- [Features](#features)
+- [Project Ideas](#Project-ideas)
+- [Changelogs](#changelogs)
+- [Contribution](#contribution)
 
 ## Installation
 This package is available on pypi.<br>[Check Here](https://pypi.org/project/getindianname)
