@@ -1,6 +1,8 @@
 # getindianname
 [![PyPI version shields.io](https://img.shields.io/pypi/v/getindianname.svg)](https://pypi.python.org/pypi/getindianname/)
 [![PyPI license](https://img.shields.io/pypi/l/getindianname.svg)](https://pypi.python.org/pypi/getindianname)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![GitHub issues](https://img.shields.io/github/issues/techux/getindianname.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
 [![Awesome Badges](https://img.shields.io/badge/Pypi-Install-green.svg)](https://pypi.org/project/getindianname/)
 
 **Package Updated on : 19 May 2021**<br>[See Changelogs](#changelogs)<br>
