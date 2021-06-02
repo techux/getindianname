@@ -1,4 +1,8 @@
 # getindianname
+[![PyPI version shields.io](https://img.shields.io/pypi/v/getindianname.svg)](https://pypi.python.org/pypi/getindianname/)
+[![PyPI license](https://img.shields.io/pypi/l/getindianname.svg)](https://pypi.python.org/pypi/getindianname)
+[![Awesome Badges](https://img.shields.io/badge/Pypi-Install-green.svg)](https://github.com/Naereen/badges)
+
 **Package Updated on : 19 May 2021**<br>[See Changelogs](https://github.com/devesh7272/getindianname/blob/main/README.md#changelogs)<br>
 
 [![Total Downloads](https://pepy.tech/badge/getindianname)](https://pepy.tech/project/getindianname)
