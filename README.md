@@ -25,7 +25,7 @@ This package have ability to generate 50K+ Indian Names [Hindi Names] for variou
 ## Installation
 This package is available on pypi.<br>[Check Here](https://pypi.org/project/getindianname)
 
-``` python
+``` console
  pip install getindianname 
 ```
 ## Statistics
@@ -42,12 +42,12 @@ You will need to *_import getindianname_* on python program or python shell befo
 from getindianname import *
 ```
 For *_command line operation_* type this
-```bash
+```console
 indianname
 ```
 You can generate Names :
 - Randomly name
-using function ``` randname()```
+using function ```randname()```
 
 - Male name
 using function ``` male() ```
