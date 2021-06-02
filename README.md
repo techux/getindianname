@@ -1,7 +1,7 @@
 # getindianname
 [![PyPI version shields.io](https://img.shields.io/pypi/v/getindianname.svg)](https://pypi.python.org/pypi/getindianname/)
 [![PyPI license](https://img.shields.io/pypi/l/getindianname.svg)](https://pypi.python.org/pypi/getindianname)
-[![Awesome Badges](https://img.shields.io/badge/Pypi-Install-green.svg)](https://github.com/Naereen/badges)
+[![Awesome Badges](https://img.shields.io/badge/Pypi-Install-green.svg)](https://pypi.org/project/getindianname/)
 
 **Package Updated on : 19 May 2021**<br>[See Changelogs](https://github.com/devesh7272/getindianname/blob/main/README.md#changelogs)<br>
 
@@ -81,6 +81,8 @@ using function ``` male() ```
 
 - Version : 1.0.3, 1.0.2, 1.0.1, 1.0.1
   - _Currently not available_
+- First Release
+  - _Not known_
 
 ## [Contributing](https://github.com/devesh7272/getindianname/blob/main/CONTRIBUTING.md#contributing-to-getindianname)
 See [Contributing.md](https://github.com/devesh7272/getindianname/blob/main/CONTRIBUTING.md#contributing-to-getindianname)
@@ -96,7 +98,7 @@ connect.world12345@gmail.com
 Thank you
 
 ## License
-© 2020 [Devesh Singh](https://www.facebook.com/devesh790)
+[![Awesome Badges](https://img.shields.io/badge/Made%20by-Devesh%20Singh-blue.svg)](https://www.facebook.com/devesh790)
 
 Made with ❤ in India 🇮🇳
 
