@@ -116,7 +116,7 @@ See [Contributing.md](https://github.com/devesh7272/getindianname/blob/main/CONT
 
 To add your own name you should follow these steps
 - Fork this repo [From GitHub](https://github.com/devesh7272/getindianname)
-- Edit main.py and add the male female names and titles separately
+- Edit malename and femalename file and add the male female names and titles separately
 - Commit change and pull request
 
 You also send names on my email 
