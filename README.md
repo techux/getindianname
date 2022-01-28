@@ -4,8 +4,11 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/TechUX/getindianname/pulls)
 [![GitHub issues](https://img.shields.io/github/issues/techux/getindianname.svg)](https://github.com/techux/getindianname/issues/)
 [![Awesome Badges](https://img.shields.io/badge/Pypi-Install-green.svg)](https://pypi.org/project/getindianname/)
-
-**Package Updated on : 19 May 2021**<br>[See Changelogs](#changelogs)<br>
+[![Run on Collab](https://img.shields.io/badge/Run%20on-Google%20Collab-blue.svg?style=flat-square)](https://colab.research.google.com/drive/1P84zjhjrGmV0rsRrnvTeeSbjQRtt1slQ?usp=sharing) <br>
+[![Owner : Devesh Singh](https://img.shields.io/badge/Owner%20-Devesh%20Singh-blue.svg?style=flat-square)](https://instagram.com/devesh92744)
+[![Available on Pypi](https://img.shields.io/badge/Available%20on%20-Pypi-brightgreen.svg?style=flat-square)](https://pypi.org/project/getindianname/)
+[![Last Update](https://img.shields.io/badge/Last%20Update-%20January%2029%202022-blue.svg?style=flat-square)](https://github.com/TechUX/getindianname#changelogs) <br><br>
+**Package Updated on : 29 January 2021**<br>[See Changelogs](#changelogs)<br>
 
 [![Total Downloads](https://pepy.tech/badge/getindianname)](https://pepy.tech/project/getindianname)
 [![Downloads](https://pepy.tech/badge/getindianname/week)](https://pepy.tech/project/getindianname)
@@ -17,13 +20,13 @@ This package have ability to generate 50K+ Indian Names [Hindi Names] for variou
 
 # Table Of Content
 - [Installation](#installation)
-- [Statistics](#Statistics)
-- [Usages](#usages)
+- [Statistics](#statistics)
+- [Usages](#usage)
   - [Sample Example](#sample-example)
 - [Features](#features)
-- [Project Ideas](#Project-ideas)
+- [Project Ideas](#project-ideas)
 - [Changelogs](#changelogs)
-- [Contribution](#contribution)
+- [Contribution](#contributing)
 
 ## Installation
 This package is available on pypi.<br>[Check Here](https://pypi.org/project/getindianname)
@@ -31,6 +34,7 @@ This package is available on pypi.<br>[Check Here](https://pypi.org/project/geti
 ``` console
  pip install getindianname 
 ```
+[Run on Google Collab](https://colab.research.google.com/drive/1P84zjhjrGmV0rsRrnvTeeSbjQRtt1slQ?usp=sharing)
 ## Statistics
 **Downloads** from *[pypi.org](https://pypi.org/project/getindianname)*
 
