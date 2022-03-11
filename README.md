@@ -7,8 +7,8 @@
 [![Run on Collab](https://img.shields.io/badge/Run%20on-Google%20Collab-blue.svg?style=flat-square)](https://colab.research.google.com/drive/1P84zjhjrGmV0rsRrnvTeeSbjQRtt1slQ?usp=sharing) <br>
 [![Owner : Devesh Singh](https://img.shields.io/badge/Owner%20-Devesh%20Singh-blue.svg?style=flat-square)](https://instagram.com/devesh92744)
 [![Available on Pypi](https://img.shields.io/badge/Available%20on%20-Pypi-brightgreen.svg?style=flat-square)](https://pypi.org/project/getindianname/)
-[![Last Update](https://img.shields.io/badge/Last%20Update-%20January%2029%202022-blue.svg?style=flat-square)](https://github.com/TechUX/getindianname#changelogs) <br><br>
-**Package Updated on : 29 January 2021**<br>[See Changelogs](#changelogs)<br>
+[![Last Update](https://img.shields.io/badge/Last%20Update-%20March%2012%202022-blue.svg?style=flat-square)](https://github.com/TechUX/getindianname#changelogs) <br><br>
+**Package Updated on : 12 March 2021**<br>[See Changelogs](#changelogs)<br>
 
 [![Total Downloads](https://pepy.tech/badge/getindianname)](https://pepy.tech/project/getindianname)
 [![Downloads](https://pepy.tech/badge/getindianname/week)](https://pepy.tech/project/getindianname)
