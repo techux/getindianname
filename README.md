@@ -8,7 +8,7 @@
 [![Owner : Devesh Singh](https://img.shields.io/badge/Owner%20-Devesh%20Singh-blue.svg?style=flat-square)](https://instagram.com/devesh92744)
 [![Available on Pypi](https://img.shields.io/badge/Available%20on%20-Pypi-brightgreen.svg?style=flat-square)](https://pypi.org/project/getindianname/)
 [![Last Update](https://img.shields.io/badge/dynamic/xml?color=blue&label=Last%20Update&query=update&url=https%3A%2F%2Fraw.githubusercontent.com%2FTechUX%2Fgetindianname%2Fmain%2Fassets%2Flastupdate.xml&style=flat-square&?cacheSeconds=5)](https://github.com/TechUX/getindianname#changelogs) <br><br>
-**Package Updated on :** ![Update On](https://img.shields.io/badge/dynamic/xml?color=Ffffff&label=%20&query=update&url=https%3A%2F%2Fraw.githubusercontent.com%2FTechUX%2Fgetindianname%2Fmain%2Fassets%2Flastupdate.xml) <br>[See Changelogs](#changelogs)<br>
+**Package Updated on :** ![Update On](https://img.shields.io/badge/dynamic/xml?color=Ffffff&label=%20&query=update&url=https%3A%2F%2Fraw.githubusercontent.com%2FTechUX%2Fgetindianname%2Fmain%2Fassets%2Flastupdate.xml) <br>[See Changelogs](#changelogs---)<br>
 
 [![Total Downloads](https://pepy.tech/badge/getindianname)](https://pepy.tech/project/getindianname)
 [![Downloads](https://pepy.tech/badge/getindianname/week)](https://pepy.tech/project/getindianname)
@@ -18,6 +18,10 @@
 This package have ability to generate 50K+ Indian Names [Hindi Names] for various uses. [See Project Ideas](#project-ideas)<br>
 Generate Indian Names Randomly from various region of India. We add new names daily.
 
+## What's New ? [See Changelogs](#changelogs---)
+- Enable console/command line utility
+- Added more names
+
 # Table Of Content
 - [Installation](#installation)
 - [Statistics](#statistics)
@@ -25,7 +29,7 @@ Generate Indian Names Randomly from various region of India. We add new names da
   - [Sample Example](#sample-example)
 - [Features](#features)
 - [Project Ideas](#project-ideas)
-- [Changelogs](#changelogs)
+- [Changelogs](#changelogs---)
 - [Contribution](#contributing)
 
 ## Installation
@@ -48,6 +52,19 @@ You will need to *_import getindianname_* on python program or python shell befo
 ``` python
 from getindianname import *
 ```
+For **Command Line Utility** *CLI* or to print names directly from terminal/command prompt, use :
+``` console
+$ name
+or
+$ indianname
+```
+Use with flags to gain more control :
+``` console
+$ name male     // generate male name
+$ name female   // generate female name
+$ name random   // generate random name
+```
+
 ### Sample Example
 [![Run on Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1P84zjhjrGmV0rsRrnvTeeSbjQRtt1slQ?usp=sharing)
 ``` Python
@@ -66,12 +83,11 @@ Nitya Divedi
 Abhijeet Pandey
 
 ```
-<!-- 
 For *_command line operation_* type this
 ```console
-indianname
+$ indianname
 ```
--->
+
 
 You can generate Names :
 - Randomly name
@@ -84,10 +100,11 @@ using function ``` male() ```
  using function ``` female()```
 
 ## Features
+- Command Line Utility
 - Update on latest version automatically
 - Update names automatically
 - 10+ Names added daily
-- Create 50000+ Names
+- Create 70000+ Names
 - Create male and female names separately
 - Create Random Names
 - Add Your own Names
@@ -101,10 +118,14 @@ using function ``` male() ```
 - And Much more like that
 
 ## Changelogs   <a href="https://pypi.org/rss/project/getindianname/releases.xml"><img src="https://www.svgrepo.com/show/25140/rss.svg" width="20px"></a>
-- This Version : v1.0.4 _[19 May 2021]_
+- This Version : v1.0.5 _[01 March 2023]_
+  - Command Line operations added
+  - Added more names
+  - Bugs fixed and performance improvements
+ 
+- Version : v1.0.4 _[19 May 2021]_
   - Automatic Update from pypi.org added
   - Automatic Updates of Name Added
-  - Command Line operations added
   - Bugs fixed and performance improvements
 
 - Version : 1.0.3
