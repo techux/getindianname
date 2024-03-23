@@ -1,3 +1,4 @@
+![getindianname](https://socialify.git.ci/techux/getindianname/image?description=1&font=Rokkitt&forks=1&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Auto)
 # getindianname
 [![PyPI version shields.io](https://img.shields.io/pypi/v/getindianname.svg?logo=pypi)](https://pypi.python.org/pypi/getindianname/)
 [![PyPI license](https://img.shields.io/pypi/l/getindianname.svg)](https://pypi.python.org/pypi/getindianname)
